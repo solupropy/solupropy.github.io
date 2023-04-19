@@ -6,7 +6,7 @@ Servicios generales de:</br>
 
 
 
-Web en desarrollo, para una previsualización puede visitar <b><u>solupropy.github.io<u><b>
+Web en desarrollo, para una previsualización puede visitar <b><u>https://solupropy.github.io<u><b>
 
 <br>
 Contacto
