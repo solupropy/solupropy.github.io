@@ -1,21 +1,23 @@
 # SoluPro.py 
 <h3>Soluciones profesionales para tu hogar</h3>
 Servicios generales de:
-<br>
+</br>
 - Jardines
+</br>
 - Piscinas
+</br>
+</br>
+</br>
 
 <b>Contacto</b>
-<br>
+</br>
 +595982366414
-<br>
+</br>
 solupro.py@gmail.com
-<br>
-  
-<br>
+</br>
+ </br>
 <b>Redes Sociales</b>
-
-<br>
+</br>
  ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) https://www.instagram.com/solupro.py
 </br>
  ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) https://www.facebook.com/solupro.py
@@ -24,16 +26,15 @@ solupro.py@gmail.com
 </br>
  ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) https://wa.me/message/5ULLSAD2F5UHH1
 </br>
-<br>
-<br>
-<br>
-<br>
+</br>
+</br>
+</br>
+</br>
 
 
 Web en desarrollo, para una pre-visualización puede visitar <b><u>https://solupropy.github.io<u></b>
-<br>
-<br>
+</br>
+</br>
 Creado por: <b>https://crltsmrtnz.github.io<b>
-<br>
-<br>
-
+</br>
+</br>
