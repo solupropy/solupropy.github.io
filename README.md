@@ -2,20 +2,15 @@
 Servicios generales de:</br>
 - Jardines
 - Piscinas
-</br> </br>
+</br>
 
-
-
-Web en desarrollo, para una pre-visualización puede visitar <b><u>https://solupropy.github.io<u><b>
-
-<br>
 Contacto
 <br>
 Telefono: +595982366414
 <br>
 Correo: solupro.py@gmail.com
 
-<br><br>
+<br>
 Redes Sociales
 <br>
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) https://www.instagram.com/solupro.py
@@ -28,6 +23,9 @@ Redes Sociales
 <br>
 <br>
 
-
-
+Web en desarrollo, para una pre-visualización puede visitar <b><u>https://solupropy.github.io<u><b>
+<br>
 Creado por: <b>https://crltsmrtnz.github.io<b>
+<br>
+<br>
+
